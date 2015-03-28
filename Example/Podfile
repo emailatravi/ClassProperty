@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'ClassProperty', :exclusive => true do
+  pod "ClassProperty", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "ClassProperty", :path => "../"
+
+  
+end
