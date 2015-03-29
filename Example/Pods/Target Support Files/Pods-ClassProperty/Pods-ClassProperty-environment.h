@@ -8,7 +8,7 @@
 
 // ClassProperty
 #define COCOAPODS_POD_AVAILABLE_ClassProperty
-#define COCOAPODS_VERSION_MAJOR_ClassProperty 0
-#define COCOAPODS_VERSION_MINOR_ClassProperty 1
-#define COCOAPODS_VERSION_PATCH_ClassProperty 0
+#define COCOAPODS_VERSION_MAJOR_ClassProperty 1
+#define COCOAPODS_VERSION_MINOR_ClassProperty 0
+#define COCOAPODS_VERSION_PATCH_ClassProperty 1
 

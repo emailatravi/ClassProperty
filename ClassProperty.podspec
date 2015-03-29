@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "ClassProperty"
-  s.version          = "1.0.0"
+  s.version          = "1.0.1"
   s.summary          = "Code to fetch all the instance variables and its corresponding type for an Objective-C Class (using Objective-C runtime)"
   s.homepage         = "https://github.com/emailatravi/ClassProperty"
   s.license          = 'MIT'

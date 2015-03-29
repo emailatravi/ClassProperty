@@ -4,11 +4,18 @@
 [![License](https://img.shields.io/cocoapods/l/ClassProperty.svg?style=flat)](http://cocoapods.org/pods/ClassProperty)
 [![Platform](https://img.shields.io/cocoapods/p/ClassProperty.svg?style=flat)](http://cocoapods.org/pods/ClassProperty)
 
-## Usage
+### Why use ClassProperty?
+
+Code to fetch all the instance variables and its corresponding type for an Objective-C Class (using Objective-C runtime)
+
+
+It also supports Super class
+
+### Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Installation
+### Installation
 
 ClassProperty is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
@@ -17,22 +24,15 @@ it, simply add the following line to your Podfile:
 pod "ClassProperty"
 ```
 
-## Author
+### Author
 
 Ravi Prakash Sahu, emailatravi@gmail.com
 
-## License
+### License
 
 ClassProperty is available under the MIT license. See the LICENSE file for more info.
 
-## Why use ClassProperty?
-
-Code to fetch all the instance variables and its corresponding type for an Objective-C Class (using Objective-C runtime)
-
-
-It also supports Super class
-
-## Example
+### Example
 
 Lets say we have three classes
 

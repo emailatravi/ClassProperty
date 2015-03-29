@@ -1,5 +1,5 @@
 PODS:
-  - ClassProperty (0.1.0)
+  - ClassProperty (1.0.1)
 
 DEPENDENCIES:
   - ClassProperty (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ClassProperty: 456d81e77b446ce44901224fee7bc8ce2f62c6e7
+  ClassProperty: 5d36d71b1b9e880c87dd9a4c8484a69a6929f96f
 
-COCOAPODS: 0.36.0
+COCOAPODS: 0.36.1
