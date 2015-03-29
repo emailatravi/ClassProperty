@@ -551,7 +551,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4D2DDFFC4D342AE49DC0E134 /* Pods-Tests.debug.xcconfig */;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ClassProperty.app/ClassProperty";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -565,7 +564,7 @@
 				);
 				INFOPLIST_FILE = "Tests/Tests-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClassProperty.app/ClassProperty";
 				WRAPPER_EXTENSION = xctest;
 			};
 			name = Debug;
@@ -574,7 +573,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = AFE5B3E6E5581E3A4F89E92D /* Pods-Tests.release.xcconfig */;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ClassProperty.app/ClassProperty";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -584,7 +582,7 @@
 				GCC_PREFIX_HEADER = "Tests/Tests-Prefix.pch";
 				INFOPLIST_FILE = "Tests/Tests-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClassProperty.app/ClassProperty";
 				WRAPPER_EXTENSION = xctest;
 			};
 			name = Release;

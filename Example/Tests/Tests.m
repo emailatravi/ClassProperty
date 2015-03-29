@@ -6,4 +6,4 @@
 //  Copyright (c) 2014 Ravi Prakash Sahu. All rights reserved.
 //
 
-${TEST_EXAMPLE}
+//${TEST_EXAMPLE}
