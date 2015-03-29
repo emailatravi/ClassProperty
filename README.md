@@ -1,6 +1,5 @@
 # ClassProperty
 
-[![CI Status](http://img.shields.io/travis/emailatravi/ClassProperty.svg?style=flat)](https://travis-ci.org/Ravi Prakash Sahu/ClassProperty)
 [![Version](https://img.shields.io/cocoapods/v/ClassProperty.svg?style=flat)](http://cocoapods.org/pods/ClassProperty)
 [![License](https://img.shields.io/cocoapods/l/ClassProperty.svg?style=flat)](http://cocoapods.org/pods/ClassProperty)
 [![Platform](https://img.shields.io/cocoapods/p/ClassProperty.svg?style=flat)](http://cocoapods.org/pods/ClassProperty)
